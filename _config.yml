@@ -12,3 +12,8 @@ color:
     - '#2667FF'
     - '#3B28CC'
 name: a dreamer
+navigation:
+  - id: 'http://www.wau73.com'
+    url: 'http://www.wau73.com'
+    name: my job
+    type: external
